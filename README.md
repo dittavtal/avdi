@@ -1,2 +1,0 @@
-# avdi
-Avtal Digital 
